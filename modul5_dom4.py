@@ -49,7 +49,7 @@ def show_all(args, contacts):
         return result.strip()
     else:
         return "Invalid command."
-
+    
 def main():
     contacts = {}
 
